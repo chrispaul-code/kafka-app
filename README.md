@@ -21,7 +21,7 @@ Consumers are grouped into **consumer groups**, ensuring scalability and fault t
 
 # 🚀 Why Kafka Is Fast
 
-![Why Kafka Is Fast](./assets/Kafka-fast.png)
+![Why Kafka Is Fast](./assets/Kafka-fast.jpg)
 
 ## ⚙️ Setup
 

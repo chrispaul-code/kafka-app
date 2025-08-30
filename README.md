@@ -18,6 +18,11 @@ Consumers are grouped into **consumer groups**, ensuring scalability and fault t
 
 ---
 
+
+# 🚀 Why Kafka Is Fast
+
+![Why Kafka Is Fast](./assets/Kafka-fast.png)
+
 ## ⚙️ Setup
 
 ### 1. Install dependencies
@@ -47,3 +52,6 @@ kafka-app/
 │── consumer.js      # Consumer logic
 │── package.json
 │── README.md
+
+
+
